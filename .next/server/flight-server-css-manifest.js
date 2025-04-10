@@ -1,0 +1,1 @@
+self.__RSC_CSS_MANIFEST={"__entry_css__":{"C:\\Users\\User\\Desktop\\BillionaireForeUI\\starter_repo\\app\\page":["C:\\Users\\User\\Desktop\\BillionaireForeUI\\starter_repo\\styles\\globals.css"]},"C:\\Users\\User\\Desktop\\BillionaireForeUI\\starter_repo\\app\\layout.js":["C:\\Users\\User\\Desktop\\BillionaireForeUI\\starter_repo\\styles\\globals.css"]}
